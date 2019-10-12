@@ -127,7 +127,7 @@ if __name__ == "__main__":
                 x_min = rect[2] / 3  # offset
                 x_max = x_min + window_width
 
-                window_height = rect[3] * 0.4
+                window_height = rect[3] * 0.3
                 y_min = rect[3] / 2  # offset
                 y_max = y_min + window_height
 
