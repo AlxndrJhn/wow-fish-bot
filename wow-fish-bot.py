@@ -67,7 +67,7 @@ def put_bait(bait_since):
         print("Bait on !")
         pyautogui.press(KEY_BAIT)
         pyautogui.press(KEY_FISHING_ROD)
-        time.sleep(3)
+        time.sleep(3.5)
     return bait_since
 
 
